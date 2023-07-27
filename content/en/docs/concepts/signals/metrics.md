@@ -40,7 +40,7 @@ open source or vendor backend of your choice.
 ## Metric Instruments
 
 In OpenTelemetry measurements are captured by **metric instruments**. Such an
-metric instrument is defined by a name, a kind, an optional unit and an optional
+metric instrument is defined by a name, a type, an optional unit and an optional
 description. The name, unit and description of such an instrument is chosen by
 the developer or defined via
 [semantic conventions](/docs/specs/otel/metrics/semantic_conventions/) for
